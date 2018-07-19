@@ -1,0 +1,9 @@
+data/
+.vscode/
+.Python
+.DS_Store
+__pycache__
+*.code-workspace
+bin
+include
+lib
